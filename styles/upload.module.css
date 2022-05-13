@@ -1,0 +1,12 @@
+.label {
+  display: inline-block;
+  width: 200px;
+  height: 44px;
+  text-align: center;
+  line-height: 44px;
+  background-color: lightskyblue;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 10px;
+  margin: 50px;
+}
